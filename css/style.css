@@ -1,0 +1,42 @@
+h1{
+    font-size: xxx-large;
+    margin-top: 1em;
+    margin-bottom: 0em;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+}
+
+div{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#vissenkom{
+    width: 40%;
+    height: 40%;
+}
+
+#vis{
+    position: absolute;
+    top: 1;
+    left: 1;
+}
+
+button{
+    font-size: large;
+    margin-top: 2.8em;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    padding: 0.8em;
+}
